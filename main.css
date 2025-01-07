@@ -1,0 +1,27 @@
+.mi1{
+    background-color: black;
+    color:yellow;
+    text-align: center;
+}
+.m2{
+    color: green;
+}
+.mi3{
+    color: white;
+}
+.mi4{
+    text-align: left;
+}
+.cars{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+} 
+.cars{
+    border: 2px solid yellow;
+    border-collapse: collapse;
+}
+tr,th,td{
+    border: 2px solid yellow;
+}   
+
